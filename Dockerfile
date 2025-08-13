@@ -1,4 +1,4 @@
-FROM python:3.11.0b1-buster
+FROM python:3.14.0rc1-slim-bookworm
 
 
 # set work directory
